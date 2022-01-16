@@ -1,0 +1,15 @@
+C:\DIO\Livros\DIO.Livros\bin\Debug\net6.0\DIO.Livros.exe
+C:\DIO\Livros\DIO.Livros\bin\Debug\net6.0\DIO.Livros.deps.json
+C:\DIO\Livros\DIO.Livros\bin\Debug\net6.0\DIO.Livros.runtimeconfig.json
+C:\DIO\Livros\DIO.Livros\bin\Debug\net6.0\DIO.Livros.dll
+C:\DIO\Livros\DIO.Livros\bin\Debug\net6.0\ref\DIO.Livros.dll
+C:\DIO\Livros\DIO.Livros\bin\Debug\net6.0\DIO.Livros.pdb
+C:\DIO\Livros\DIO.Livros\obj\Debug\net6.0\DIO.Livros.csproj.AssemblyReference.cache
+C:\DIO\Livros\DIO.Livros\obj\Debug\net6.0\DIO.Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\Livros\DIO.Livros\obj\Debug\net6.0\DIO.Livros.AssemblyInfoInputs.cache
+C:\DIO\Livros\DIO.Livros\obj\Debug\net6.0\DIO.Livros.AssemblyInfo.cs
+C:\DIO\Livros\DIO.Livros\obj\Debug\net6.0\DIO.Livros.csproj.CoreCompileInputs.cache
+C:\DIO\Livros\DIO.Livros\obj\Debug\net6.0\DIO.Livros.dll
+C:\DIO\Livros\DIO.Livros\obj\Debug\net6.0\ref\DIO.Livros.dll
+C:\DIO\Livros\DIO.Livros\obj\Debug\net6.0\DIO.Livros.pdb
+C:\DIO\Livros\DIO.Livros\obj\Debug\net6.0\DIO.Livros.genruntimeconfig.cache
